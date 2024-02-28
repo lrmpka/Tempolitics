@@ -1,9 +1,9 @@
-============================================================================  
+= ===========================================================================  
  Name        : Tempolitics  
  Author      : Pavel Karasev  
  Version     : 0.1.0  
  Description : Console application for make analysis of temperature data from file  
-============================================================================  
+= ===========================================================================  
   
 This programm collects temperature data from .csv file which contains strings in format yyyy;mm;dd;h;min;temp  
 Default output: min, max and average temperature value per each month and same statistics value for the whole year.  
